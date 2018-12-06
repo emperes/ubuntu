@@ -439,7 +439,7 @@ ZSH_HIGHLIGHT_STYLES[bracket-level-2]='fg=green,bold'
 ZSH_HIGHLIGHT_STYLES[bracket-level-3]='fg=yellow,bold'
 ZSH_HIGHLIGHT_STYLES[bracket-level-4]='fg=magenta,bold'
 ZSH_HIGHLIGHT_STYLES[cursor-matchingbracket]='fg=gray,bold' # Цвет парной скобки, если курсор на скобке
-ZSH_HIGHLIGHT_STYLES[cursor]='bg=black'
+ZSH_HIGHLIGHT_STYLES[cursor]='bg=white'
 # ZSH_HIGHLIGHT_STYLES[root]='bg=red'
 # Restore the aliases we unned
 eval "$zsh_highlight__aliases"
